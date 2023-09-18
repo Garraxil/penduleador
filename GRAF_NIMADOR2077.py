@@ -7,7 +7,7 @@ import heapq as hd
 import sympy as sym
 from PIL import ImageTk, Image 
 
-
+# hola <BRIAN
 
 x = sym.symbols('x') 
 plt.style.use('dark_background')
